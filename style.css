@@ -1,0 +1,48 @@
+p{
+    margin-top: 0px;
+    font-size: 90px;
+    margin-left: 36%;
+    font-style: italic;
+    margin-bottom: 0px;
+    font-weight: bolder;
+}
+.play{
+    margin-top:0%;
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+.player1{
+display: inline-flex;
+height: 400px;
+width: 50%;
+}
+.player2{
+    display: inline-flex;
+    height: 400px;
+    width: 50%;
+}
+.player{
+    font-size: 5rem;
+    font-style: italic;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    margin-left: 18rem;
+    margin-bottom: 0px;
+}
+.image{
+    width: auto;
+    margin-top: 10rem;
+    margin-left: -17rem;
+    height: auto;
+}
+.solution{
+    /* z-index: 3; */
+    font-size: 20px;
+    font-style: italic;
+    color: black;
+    background-color: red;
+    height: 5rem;
+    width: 100%;
+}
